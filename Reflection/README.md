@@ -1,4 +1,4 @@
-# Agentic AI: Reflection Pattern
+# Agentic AI: Reflection Loop
 
 This project implements a **Reflection Loop**, an agentic AI architecture where a model does not stop after producing a single response. Instead, it **generates, critiques, and refines its own output** through a structured, multi-step workflow.
 
