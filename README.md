@@ -83,8 +83,9 @@ LANGCHAIN_API_KEY="your_langsmith_api_key_here"
 ```
 
 ### 4. Run an Example
-Use uv run to execute the reflection agent within the managed environment:
+Use uv run to execute the  agent within the managed environment:
 ```bash
+#exmaple
 uv run reflection_loops/reflection_agent.py
 ```
 
