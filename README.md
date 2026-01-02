@@ -50,7 +50,7 @@ It contains **production-inspired agentic patterns** with clear logic, use cases
 | LangGraph | LangGraph |
 | GROQ APIs | High-performance LLMs that power the agent's reasoning. |
 | Pydantic  | Ensures robust, structured data modeling, which is critical for reliable communication with LLMs. |
-
+| Tavily Search | A powerful search API used as a tool for research-oriented agents. |
 ---
 
 ## 🚀 Getting Started
@@ -75,11 +75,14 @@ The agents require API keys to function. Create a file named .env in the root of
 
 Open the .env file and add your credentials. It should look like this:
 ```bash
-# Nebius AI API Key (for LLM access)
+# GROQ API Key (for LLM access)
 GROQ_API_KEY="your_GROQ_api_key_here"
-
+# Gemini  API Key (for LLM access)
+GOOGLE_API_KEY="your_google_api_key_here"
 # LangSmith API Key (for tracing and debugging)
 LANGCHAIN_API_KEY="your_langsmith_api_key_here"
+# Travily API Key (for web search)
+TAVILY_API_KEY="your_travily_api_key_here"
 ```
 
 ### 4. Run an Example
