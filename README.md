@@ -23,7 +23,7 @@ It contains **production-inspired agentic patterns** with clear logic, use cases
 | Pattern Name | Core Idea | When to Use | Status |
 | :--- | :--- | :--- | :--- |
 | **Reflection** | AI critiques and improves its own output | When accuracy & refinement matter | ✅ Done |
-| **Tool Use** | Agents that call external tools | Data retrieval & automation | ⏳ Planned |
+| **Tool Use** | Agents that call external tools | Data retrieval & automation | ✅ Done |
 | **ReAct** | Combining Reasoning and Acting | Tasks requiring multi-step tool logic | ⏳ Planned |
 | **Planning** | Pre-generating a sequence of steps | Long, complex multi-step tasks | ⏳ Planned |
 | **Multi-Agent Systems** | Specialized agents working together | Complex workflows with distinct roles | ⏳ Planned |
