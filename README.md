@@ -27,7 +27,7 @@ It contains **production-inspired agentic patterns** with clear logic, use cases
 | **ReAct** | Combining Reasoning and Acting | Tasks requiring multi-step tool logic | ✅ Done |
 | **Planning** | Pre-generating a sequence of steps | Long, complex multi-step tasks | ✅ Done |
 | **Multi-Agent Systems** | Specialized agents working together | Complex workflows with distinct roles | ✅ Done |
-| **PEV (Plan, Execute, Verify)** | Systematic cycle for goal accuracy | High-stakes automation | ⏳ Planned |
+| **PEV (Plan, Execute, Verify)** | Systematic cycle for goal accuracy | High-stakes automation | ✅ Done |
 | **Blackboard Systems** | Agents contributing to a shared logic space | Collaborative problem solving | ⏳ Planned |
 | **Episodic + Semantic Memory**| Past experiences + general knowledge | Long-term personalization & facts | ⏳ Planned |
 | **Tree of Thoughts (ToT)** | Branching reasoning paths | Non-linear/Creative problem solving | ⏳ Planned |
